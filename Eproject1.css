@@ -12,6 +12,7 @@ nav{
     width: 100%;
     justify-content: space-between;
     background-color: white;
+    border: 1px solid lightgray;
 } 
 a{
     font-style: none;
@@ -35,7 +36,7 @@ img{
 #s{
     height: 600px;
     width: 1530px;
-    margin-top: 100px;
+    margin-top: 80px;
     margin-left: 0px;
 }
 .h{
@@ -157,6 +158,24 @@ img{
     justify-content: center;
     height: 150px;
     width: 300px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.op{
+    border-radius: 10px;
+    background-color: rgb(212, 212, 212);
+    margin-top: -75px;
+    margin-left: 60px;
+    height:26px;
+    width: 80px;
+    justify-content: center;
+}
+.wc{
+    margin-top: -95px;
+    margin-left: -135px;
+    justify-content: center;
+    height: 150px;
+    width: 600px;
     font-weight: 600;
     font-size: 18px;
 }
