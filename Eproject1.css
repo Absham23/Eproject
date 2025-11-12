@@ -8,7 +8,7 @@
 }
 nav{
     position: fixed;
-    height: 80px;
+    height: auto;
     width: 100%;
     justify-content: space-between;
     background-color: white;
@@ -135,7 +135,7 @@ img{
 .rr {
     width: 330px;
     height: 200px;    
-    margin-top:-350px;
+    margin-top:-380px;
     margin-left: 1160px;
     border-radius: 20px;
     overflow: hidden;  
@@ -150,7 +150,7 @@ img{
     border-radius: 10px;
     background-color: rgb(212, 212, 212);
     margin-top: -140px;
-    margin-left: -310px;
+    margin-left: -450px;
     height:26px;
     width: 80px;
     justify-content: center;
